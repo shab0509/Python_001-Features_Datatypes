@@ -1,2 +1,4 @@
 # PYTHON
 BASICS OF PYTHON
+
+1. Strings
