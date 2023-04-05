@@ -18,5 +18,11 @@ Below is the list of feature:
                    JPYTHON/ANACONDA PYTHON/RUBY PYTHON
 
                    
+3. Platform Independent
+   A language is said to be platform Independent if & only if it's program run on any OS with considering its vendor.
+   C  programming : whose datatypes takes different memory space 
+   JAVA programming : whose datatypes takes same memory space & same with Python.
+
+4. 
 
 
