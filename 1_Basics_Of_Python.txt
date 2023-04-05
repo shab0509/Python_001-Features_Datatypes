@@ -8,5 +8,3 @@ Version of Python
 
 >> Official Website :  www.python.org
 
-
-

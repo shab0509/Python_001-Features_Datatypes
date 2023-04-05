@@ -1,0 +1,22 @@
+Feature are the facilities or services provided by language developer to the programmer 
+for developing real time application.
+
+
+Below is the list of feature:
+---------------------------------------------------------
+1. Simple 
+
+>> Rich set of API'services 
+>> Inbuilt facility of "Garbage Collector" 
+   It is a prg running in background whose role is collecting unused memory space & improve performance.
+>> User-Frinedly Syntax
+
+
+2. Freeware & Open Source
+    Freeware : S/w is free.
+    Open Source :  Some Company came forward and customized CPYTHON called "Distribution of Python"
+                   JPYTHON/ANACONDA PYTHON/RUBY PYTHON
+
+                   
+
+
