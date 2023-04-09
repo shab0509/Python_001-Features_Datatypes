@@ -49,3 +49,5 @@ Below is the list of feature:
    >> Python PL can call other language coding segment for faster execution purpose. for ex : Pyhton code can call C programming language.
 
 
+9. Support third party API's  :: Numpy, Pandas, Scipy, Scikit , Matplotlib
+
