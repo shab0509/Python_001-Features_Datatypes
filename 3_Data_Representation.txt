@@ -15,7 +15,7 @@ Datatypes in Python
 2. Sequential <str / bytes / bytearray / range >
 3. List Data Types (Collection Data Types) < List / Tuple >
 4. Set Data Type (Collection Data Types) < Set / Frozenset >
-5. dict Data Types (Collection Data Types) < dict >
+5. Dict Data Types (Collection Data Types) < dict >
 6. None Data Type <None>
 
 Rules for variable name in python
