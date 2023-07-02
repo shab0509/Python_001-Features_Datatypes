@@ -18,6 +18,7 @@ Datatypes in Python
 5. Dict Data Types (Collection Data Types) < dict >
 6. None Data Type <None>
 
+
 Rules for variable name in python
 -------------------------------------------
 1. Variable name is a combination of Alphabets, Digit & specail symbol(_)
