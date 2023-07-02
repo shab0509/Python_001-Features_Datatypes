@@ -1,0 +1,55 @@
+# Base Conversion Functions
+# Purpose of base conversion function is to convert one number system to another number system.
+
+# 1. bin
+
+a=13
+print(a,type(a))
+b= bin(a)
+print(b,type(b))
+
+c= 0o213
+print(c,type(c))
+d = bin(c)
+print(c,type(c))
+
+e= 0X42A
+print(e,type(e))
+f= bin(e)
+print(f,type(f))
+
+# 2. Oct   
+
+a=23
+print(a,type(a))
+b= oct(a)
+print(b,type(b))
+
+c= 0b01010111
+print(c,type(c))
+d = oct(c)
+print(d,type(d))
+
+e= 0X332D
+print(e,type(e))
+f= oct(e)
+print(f,type(f))
+
+
+# 3. Hex
+
+a=23
+print(a,type(a))
+b= hex(a)
+print(b,type(b))
+
+c= 0b01010111
+print(c,type(c))
+d = hex(c)
+print(d,type(d))
+
+e= 0X332D
+print(e,type(e))
+f= hex(e)
+print(f,type(f))
+
