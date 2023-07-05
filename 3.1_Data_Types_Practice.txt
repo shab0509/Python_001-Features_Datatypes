@@ -39,3 +39,7 @@ c = hex(b)
 print(c)
 
 
+a= 0X1A11
+print(a)
+print(type(a))
+
