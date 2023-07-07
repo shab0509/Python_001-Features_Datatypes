@@ -15,8 +15,8 @@ print(c)
 
 a=True
 b=False
-#print(a,type(a))
-#print(b,type(b))
+print(a,type(a))
+print(b,type(b))
 
 print(0b1111 * b - 0XF)
 
