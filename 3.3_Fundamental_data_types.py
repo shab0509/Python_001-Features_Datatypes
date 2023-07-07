@@ -69,7 +69,7 @@ print(0b1111 * b - 0XF)
 
 
 # Complex 
-#############################
+############################
 # Complex number format  : a+bj  /  a-bj 
 # a is the real part & b is the  imaginary part 
 # j = sqrt(-1)
