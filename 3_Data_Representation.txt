@@ -1,0 +1,37 @@
+With the help of datatype,Memory space is getting created & inputs get stored.
+To process the inputs we must use distinct names to create memory space.
+
+Hence the distinct name will make us to identify the values present in memory space and are called identifier. 
+Identifier value changing during execution of program are called variables.
+Hence every input of the program must be stored in the variable and all variable are called objects.
+
+To represent data in python we need:
+ >> Datatype
+ >> Variables(Objects)
+
+Datatypes in Python
+-------------------------------------------
+1. Fundamental <int / float / bool / complex >
+2. Sequential <str / bytes / bytearray / range >
+3. List Data Types (Collection Data Types) < List / Tuple >
+4. Set Data Type (Collection Data Types) < Set / Frozenset >
+5. Dict Data Types (Collection Data Types) < dict >
+6. None Data Type <None>
+
+
+Rules for variable name in python
+-------------------------------------------
+1. Variable name is a combination of Alphabets, Digit & specail symbol(_)
+2. First letter of variable must start with Alphabets or specail symbol(_)
+3. No specail symbol is allowed within variable except underscore(_)
+4. No Keyword should be used as variable name
+5. Use user-friendly variable name 
+
+
+
+
+
+
+
+
+
