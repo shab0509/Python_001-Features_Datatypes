@@ -6,16 +6,16 @@
 ############################
 #Purpose of 'str' data types is to store string datatype.
 #Operation on string :  indexing(Positive/Negative) , Slicing
-# Organisation of string : Single Line str data  >> " " , ' '
-#                        : Multiple line str data  >> """ """ , ''' '''
+#Organisation of string : Single Line str data  >> " " , ' '
+#                       : Multiple line str data  >> """ """ , ''' '''
 
 a ="Shabi has started working on things"
 print(a)
 
-b = 'Hi shabi '
+b = 'Hi shabi'
 print(b)
 
-c = """Hi this world is not fair immedaitely 
+c = """Hi this world is not fair immediately 
 but someday it will turn out to be fair 
 that is the mystery which this world beholds"""
 print(c)
