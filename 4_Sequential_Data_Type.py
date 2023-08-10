@@ -52,9 +52,11 @@ print(S[-4])
 print(S[0:3])   #Positive Slicing
 print(S[:3])
 
-print(S[-4:-1]) #Neagtive Slicing 
+print(S[-4:-1]) #Negative Slicing 
 print(S[:-2])
 
+#print(begin:end:step)
+print(a[0:6:2])
 
 # 2.Bytes
 ############################
