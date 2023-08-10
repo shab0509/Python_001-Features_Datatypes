@@ -104,7 +104,9 @@ print(t1,type(t1))
 
 for x in t1:
     print(x)
-
+    
+for v in t1[1:3]:
+    print(v)
 
 # 2. RANGE
 ############################
