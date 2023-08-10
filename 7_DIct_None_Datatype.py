@@ -29,11 +29,10 @@ print(d1)
 ####################################3
 
 # "NoneType" is pre-defined class & treated as none datatype.
-# "None" is keyword act as value for  <class ,'NoneType'>
-# the Value of "None" is False, empty , 0
-# An object of None data type cany be created explicitly.
-# 
-# 
+# "None" is keyword act as value for  <class,'NoneType'>
+# the Value of "None" is False, empty, 0
+# An object of None data type can be created explicitly.
+ 
 a = None
 print(a,type(a))
  
