@@ -156,6 +156,5 @@ T2 = (10,1000,90,70)
 print(T1)
 print(T2)
 
-L2 = list(T2)
-L2.sort()
+L2 = tuple(T2)
 print(L2)
