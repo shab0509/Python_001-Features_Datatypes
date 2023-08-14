@@ -2,7 +2,7 @@
 # Purpose of base conversion function is to convert one number system to another number system.
 # Decimal/Binary/Octal/Hex
 
-a=0XA2231
+a=1001
 print(a,type(a))
 
 b = bin(a)
