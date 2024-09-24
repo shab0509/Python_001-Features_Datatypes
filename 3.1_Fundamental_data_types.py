@@ -9,11 +9,11 @@ print(a,type(a))
 
 a = 0b010101 
 print(a)
-print(type(a))
+print(a,type(a))
 
 a = 0B0000101011
 print(a)
-print(type(a))
+print(a,type(a))
 
 b=21
 c = bin(b)
@@ -23,7 +23,7 @@ print(c)
 
 a= 0o11
 print(a)
-print(type(a))
+print(a,type(a))
 
 b= 9
 c = oct(b)
@@ -32,7 +32,7 @@ print(c)
 # Hexadecimal Number System
 a= 0x1A1
 print(a)
-print(type(a))
+print(a,type(a))
 
 b= 417 
 c = hex(b)
@@ -41,7 +41,7 @@ print(c)
 
 a= 0X1A11
 print(a)
-print(type(a))
+print(a,type(a))
 
 
 
