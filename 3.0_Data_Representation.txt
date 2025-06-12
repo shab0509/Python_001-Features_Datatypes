@@ -21,9 +21,9 @@ Datatypes in Python
 
 Rules for variable name in python
 -------------------------------------------
-1. Variable name is a combination of Alphabets, Digit & specail symbol(_)
-2. First letter of variable must start with Alphabets or specail symbol(_)
-3. No specail symbol is allowed within variable except underscore(_)
+1. Variable name is a combination of Alphabets, Digit & special symbol(_)
+2. First letter of variable must start with Alphabets or special symbol(_)
+3. No special symbol is allowed within variable except underscore(_)
 4. No Keyword should be used as variable name
 5. Use user-friendly variable name 
 

@@ -1,4 +1,4 @@
-Feature are the facilities or services provided by language developer to the programmer/developer
+Features are the facilities or services provided by language developer to the programmer/developer
 for developing real time application.
 
 Below is the list of feature:
@@ -26,6 +26,7 @@ Below is the list of feature:
 
 5. High Level PL
   >> Low level PL : In Low level PL, we represent the data in the form of binary, octal or hex which is understandable by machine but not by human.
+                    Closer to Hardware, Examples such as X86, ARM, MIPS
   >> High Level PL : In High Level PL,low level PL data representation is automatically converted into HLL understandable format. i.e Decimal Number System
 
 6. Robust
@@ -33,9 +34,9 @@ Below is the list of feature:
    >> Runtime errors of program are called exception, Exception always give technical error messages which are understandable by programmer but not by application user 
    >> Process of converting technical error message into user friendly error message is called exception handling.
 
-7. Extensiblesdcdscdscsdcvvs
+7. Extensible
    >> Python PL giving its PL facilities to other language & hence extensible.
-   >> You can extend python by writting code in other language like C/C++ & integrate in your python application.
+   >> You can extend python by writing code in other language like C/C++ & integrate in your python application.
 
 8. Embedded
    >> Python PL can call other language coding segment for faster execution purpose. for ex : Python code can call C programming language.
