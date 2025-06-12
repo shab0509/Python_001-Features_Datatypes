@@ -33,7 +33,7 @@ Below is the list of feature:
    >> Runtime errors of program are called exception, Exception always give technical error messages which are understandable by programmer but not by application user 
    >> Process of converting technical error message into user friendly error message is called exception handling.
 
-7. Extensible
+7. Extensiblesdcdscdscsdcvvs
    >> Python PL giving its PL facilities to other language & hence extensible.
    >> You can extend python by writting code in other language like C/C++ & integrate in your python application.
 
