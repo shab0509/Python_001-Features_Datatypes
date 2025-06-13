@@ -60,11 +60,11 @@ print(a[0:6:2])
 
 # 2.Bytes
 ############################
-# It is used for storing sequence of numerical integer value ranges from 0 to 256
-# An object of Bytes datatype belongs to immutable.
-# To represent the element of Bytes datatype, we dont have any symbolic notation but we can convert other type of element into Bytes using byte().
-# On the object of Bytes, we can perform indexing & slicing.
-# An oject of Bytes preserves insertion order.
+# used to storing sequence of numerical integers values ranging from 0-256
+# Immutable
+# can perform Indexing & Slicing
+# Preserves insertion orders
+# we don't have any symbolic notation, but we can convert other type of element into Bytes using byte().
 
 
 l1 = [0,10,20,30,50,255]
@@ -79,25 +79,31 @@ for x in l2:
 
 print(l2[2])  #indexing in Bytes
 
+b= [0,1,4,232,255]
+print(b,type(b))
+
+for x in b[0:5] :
+    print(x) #Slicing in Bytes
 
 # 2. BYTEARRAY
 ############################
 
 # used for storing sequence of numerical integer values ranges from 0 to 256.
-# An object of Bytearray datatype belong to mutable.
-# To represents the element of bytearray data type, we dont have any symbolic notation but we can convert other types of element into bytearray type by using bytearray().
+# An object of Bytearray datatype belong's to Mutable.
+# We dont have any symbolic notation,but we can convert other types of element into bytearray type by using bytearray().
 # On the object of bytearray, we can perform indexing & slicing.
 # Objects of bytearray preserves insertion order.
 
 # Note : The functionality of Bytes and Bytearray is exactly similar but 
-# an object of Bytes is immutable where as an object of bytearray is mutable.
+# an object of Bytes is Immutable where as an object of bytearray is Mutable.
 
 
-t= [10,20,30,252]
+t= [10,20,30,252,True]
 print(t,type(t))
 
 t1= bytearray(t)
 print(t1,type(t1))
+
 t1[2] =33        # mutability
 print(t1,type(t1))
 
