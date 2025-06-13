@@ -1,5 +1,5 @@
 # Sequential Data Types
-# [STRING / BYTES / BYTEARRAY / RANGE]
+# [STRING / BYTES(Immutable) / BYTEARRAY(Mutable) / RANGE]
 
 
 # 1.String
