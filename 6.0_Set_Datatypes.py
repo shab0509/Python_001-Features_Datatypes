@@ -1,5 +1,5 @@
 # Set Datatypes
-# is to store multiple values either of the same type of different type or both with unique values.
+# Store multiple values either of the same type of different type or both with unique values.
 # Element of the set must be written within curly braces {} and seprated by comma.
 # syntax to create an empty set :   setobj=set()
 # An object does not maintain insertion order coz PVM can display any possibility of set object element.
@@ -132,15 +132,14 @@ print(S3)
 # Frozenset
 
 # Frozenset is used to store multiple values either of the same type or different type or both type with unique values.
-# Element of frozenset can be obtained by converting othe type collection element by using froszenset().
-
+# Element of frozenset can be obtained by converting other type collection element by using froszenset().
 # Frozenset does not maintain insertion order
-# cannot perform indexing/slicing
-# an onject of frozenset is immutable.
+# Cannot perform Indexing/Slicing
+# an object of frozenset is immutable.
 
 # Note : The functionality of frozenset is exactly similar to set but 
-# frozenset object belongs to immutable and 
-# set object belongs to mutable
+# frozenset object belongs to Immutable
+# set object belongs to Mutable(in case of add) & Immutable(in case of item assignment)
 
 
 
@@ -163,8 +162,8 @@ print(L1,type(L1))
 fs_002= frozenset(L1)
 print(fs_002,type(fs_002))
 
-# Function available in Frozenset
-# union,intersection,difference,symmnetric_difference,issuperset,issubset,isdisjoint
+# Functions available in Frozenset:
+# issuperset,issubset,union,intersection,difference,symmetric_difference,isdisjoint
 
 
 
