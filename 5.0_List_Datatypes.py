@@ -150,6 +150,7 @@ print(L1)
 
 # Tuple
 # Purpose of list datatype is to store multiple values either of the same type or different type or both type with unique and duplicate values.
+# Immutable
 # Element must be provided within braces ().
 # Maintains Insertion order
 # Performs Indexing & Slicing
